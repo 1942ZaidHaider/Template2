@@ -47,8 +47,9 @@ p{
     background-color: #333333;
     float:left;
     border-right: solid 2px lightgray;
+    transition:0.3s;
 }
-.green-li{
+#navbar li:hover{
     background-color: green !important;
 }
 #main{
